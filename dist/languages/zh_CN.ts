@@ -3599,8 +3599,8 @@ When a guest attempts to open the controller applet, it is immediately closed.</
         <location filename="../../src/yuzu/configuration/configure_input_player.cpp" line="526"/>
         <source>After pressing OK, first move your joystick horizontally, and then vertically.
 To invert the axes, first move your joystick vertically, and then horizontally.</source>
-        <translation>在按下确定后，首先水平移动你的手柄，然后垂直移动它。
-如果要使体感方向倒置，首先垂直移动你的手柄，然后水平移动它。</translation>
+        <translation>在按下确定后，首先水平移动你的控制器，然后垂直移动它。
+如果要使体感方向倒置，首先垂直移动你的控制器，然后水平移动它。</translation>
     </message>
     <message>
         <location filename="../../src/yuzu/configuration/configure_input_player.cpp" line="594"/>
@@ -3628,17 +3628,17 @@ To invert the axes, first move your joystick vertically, and then horizontally.<
     <message>
         <location filename="../../src/yuzu/configuration/configure_input_player.cpp" line="1101"/>
         <source>Dual Joycons</source>
-        <translation>双 Joycons 手柄</translation>
+        <translation>双 Joycons 控制器</translation>
     </message>
     <message>
         <location filename="../../src/yuzu/configuration/configure_input_player.cpp" line="1105"/>
         <source>Left Joycon</source>
-        <translation>左 Joycon 手柄</translation>
+        <translation>左 Joycon 控制器</translation>
     </message>
     <message>
         <location filename="../../src/yuzu/configuration/configure_input_player.cpp" line="1109"/>
         <source>Right Joycon</source>
-        <translation>右 Joycon 手柄</translation>
+        <translation>右 Joycon 控制器</translation>
     </message>
     <message>
         <location filename="../../src/yuzu/configuration/configure_input_player.cpp" line="1113"/>
@@ -5965,7 +5965,7 @@ Please, only use this feature to install updates and DLC.</source>
     <message>
         <location filename="../../src/yuzu/main.cpp" line="3911"/>
         <source>Handheld controller can&apos;t be used on docked mode. Pro controller will be selected.</source>
-        <translation>掌机手柄无法在主机模式中使用。将会选择 Pro controller。</translation>
+        <translation>掌机控制器无法在主机模式中使用。将会选择 Pro controller。</translation>
     </message>
     <message>
         <location filename="../../src/yuzu/main.cpp" line="4053"/>
@@ -8346,7 +8346,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../src/yuzu/applets/qt_controller.ui" line="2059"/>
         <location filename="../../src/yuzu/applets/qt_controller.cpp" line="469"/>
         <source>Dual Joycons</source>
-        <translation>双 Joycons 手柄</translation>
+        <translation>双 Joycons 控制器</translation>
     </message>
     <message>
         <location filename="../../src/yuzu/applets/qt_controller.ui" line="524"/>
@@ -8359,7 +8359,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../src/yuzu/applets/qt_controller.ui" line="2064"/>
         <location filename="../../src/yuzu/applets/qt_controller.cpp" line="473"/>
         <source>Left Joycon</source>
-        <translation>左 Joycon 手柄</translation>
+        <translation>左 Joycon 控制器</translation>
     </message>
     <message>
         <location filename="../../src/yuzu/applets/qt_controller.ui" line="529"/>
@@ -8372,7 +8372,7 @@ p, li { white-space: pre-wrap; }
         <location filename="../../src/yuzu/applets/qt_controller.ui" line="2069"/>
         <location filename="../../src/yuzu/applets/qt_controller.cpp" line="477"/>
         <source>Right Joycon</source>
-        <translation>右 Joycon 手柄</translation>
+        <translation>右 Joycon 控制器</translation>
     </message>
     <message>
         <location filename="../../src/yuzu/applets/qt_controller.ui" line="538"/>

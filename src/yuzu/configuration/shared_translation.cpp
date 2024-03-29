@@ -268,7 +268,7 @@ std::unique_ptr<TranslationMap> InitializeTranslations(QWidget* parent) {
               "the same PC."));
     INSERT(UISettings, pause_when_in_background, tr("Pause emulation when in background"),
            tr("This setting pauses yuzu when focusing other windows."));
-    INSERT(UISettings, confirm_before_stopping, tr("Confirm before stopping emulation"),
+    INSERT(UISettings, confirm_before_stopping, tr("停止模拟时需要确认"),
            tr("This setting overrides game prompts asking to confirm stopping the game.\nEnabling "
               "it bypasses such prompts and directly exits the emulation."));
     INSERT(UISettings, hide_mouse, tr("Hide mouse on inactivity"),
